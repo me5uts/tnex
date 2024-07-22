@@ -1,8 +1,8 @@
 import React from 'react';
 
 function App() {
-  const value = 'Tnex store';
-  return <div>Hello {value}</div>;
+  const value = 'Xjop98wx';
+  return <div>This is  {value} web app.</div>;
 }
 
 export default App;
